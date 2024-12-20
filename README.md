@@ -32,5 +32,5 @@ For more information, including downloading and compilation instruction, please 
 http://ndnsim.net or documentation in `docs/` folder.
 =======
 # ndnSIM2.4-wireless Fix-LRWPAN
-NdnSIM2.4  for Probabilstic Forwarding over LRWPAN for LLN and wifi over MANET
+NdnSIM2.4  for Probabilstic Forwarding ,Blind Flooding and Gossip forwarding over LRWPAN for LLN and wifi over MANET
 >>>>>>> 38ba7d878450e3b74acdce9faecf2d7746c23825
