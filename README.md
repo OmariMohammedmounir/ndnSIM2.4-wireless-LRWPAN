@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ndnSIM
 ======
 
@@ -29,3 +30,7 @@ version:
 
 For more information, including downloading and compilation instruction, please refer to
 http://ndnsim.net or documentation in `docs/` folder.
+=======
+# ndnSIM2.4-wireless-LRWPAN
+NdnSIM2.4  for Probabilstic Forwarding over Manets
+>>>>>>> 38ba7d878450e3b74acdce9faecf2d7746c23825
